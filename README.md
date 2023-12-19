@@ -5,5 +5,9 @@ This is solution for backup between 2 Zimbra mail server with identic Zimbra Ver
 Run this script with crontab for scheduler.
 
 <h2>Requirement</h2>
-1. Install Mailx
-2. Use zimbra postfix as default mailer mailx when sending email via CLI. See article.
+<ol>
+<li>Install Mailx</li>
+<li>Use zimbra postfix as default mailer mailx when sending email via CLI. See article.</li>
+</ol>
+
+
