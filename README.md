@@ -1,2 +1,2 @@
 # Zimbra-Rsync
-Zimbra Script Collection
+Zimbra Script For Rsync Backup Between Zimbra Server
