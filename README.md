@@ -1,5 +1,5 @@
 # Zimbra-Rsync
-<p>Zimbra Script For Rsync Backup Between Zimbra Server. This is solution for backup between 2 Zimbra mail server with identic Zimbra Version and OS. Use protocol RSYNC with some parameter. Run this script with crontab for scheduler.</p>
+<p>Zimbra Script For Rsync Backup Between Zimbra Server FOSS Community Edition. This is solution for backup between 2 Zimbra mail server with identic Zimbra Version and OS. Use protocol RSYNC with some parameter. Run this script with crontab for scheduler.</p>
 <h2>Condition</h2>
 <p>I am using zimbra mail server on top of a <strong>virtualization machine</strong>. And <strong>CLONE the VM</strong>, so there is an identical twin server.</p>
 <h2>Requirement</h2>
